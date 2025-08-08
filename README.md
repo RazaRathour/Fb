@@ -1,3 +1,5 @@
 https://github.com/RazaRathour/Fb.git
-cd fb
+
+cd Fb
+
 python verify.py
