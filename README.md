@@ -1,4 +1,4 @@
-https://github.com/RazaRathour/Fb.git
+git clone https://github.com/RazaRathour/Fb.git
 
 cd Fb
 
